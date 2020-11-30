@@ -9,11 +9,5 @@
 <script>
     export default {
         props: ['message', 'author'],
-
-        // data() {
-        //     return{
-        //         message: this.message
-        //     }
-        // }
     }
 </script>

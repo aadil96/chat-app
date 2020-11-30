@@ -8,27 +8,5 @@
 <script>
     export default {
         props: ['messages']
-        // data(){
-        //     return {
-        //         messages: [
-        //             {
-        //                 message: "Hey How are you",
-        //                 user: 'Robot',
-        //             },
-        //             {
-        //                 message: "Am all good",
-        //                 user: "Me"
-        //             }
-        //         ]
-        //     }
-        // },
-        // mounted(){
-        //     console.log('hi')
-        // },
-        // methods: {
-        //     message: () => {
-
-        //     }
-        // }
     }
 </script>
