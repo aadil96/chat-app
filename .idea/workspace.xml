@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a48fbef5-c524-45e1-b4d0-4b795e975357" name="Default Changelist" comment="" />
+    <list default="true" id="a48fbef5-c524-45e1-b4d0-4b795e975357" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +15,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -205,60 +213,22 @@
       <workItem from="1606040165048" duration="10259000" />
       <workItem from="1606068254626" duration="3523000" />
       <workItem from="1606155320234" duration="2371000" />
+      <workItem from="1607173942688" duration="3908000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="278" y="45" width="800" height="723" key="#Intentions" timestamp="1606066994606">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="278" y="45" width="800" height="723" key="#Intentions/0.27.1366.741@0.27.1366.741" timestamp="1606066994606" />
-    <state x="141" y="55" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606156583849">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="141" y="55" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1606156583849" />
-    <state x="461" y="152" width="424" height="478" key="FileChooserDialogImpl" timestamp="1606157452586">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="461" y="152" width="424" height="478" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1606157452586" />
-    <state width="1366" height="252" key="GridCell.Tab.0.bottom" timestamp="1606157467765">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1366" height="252" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1606157467765" />
-    <state width="1366" height="252" key="GridCell.Tab.0.center" timestamp="1606157467764">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1366" height="252" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1606157467764" />
-    <state width="1366" height="252" key="GridCell.Tab.0.left" timestamp="1606157467764">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1366" height="252" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1606157467764" />
-    <state width="1366" height="252" key="GridCell.Tab.0.right" timestamp="1606157467764">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1366" height="252" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1606157467764" />
-    <state x="172" y="32" key="SettingsEditor" timestamp="1606157465020">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="172" y="32" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1606157465020" />
-    <state width="600" height="428" key="javadoc.popup" timestamp="1606156694051">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="600" height="428" key="javadoc.popup/0.27.1366.741@0.27.1366.741" timestamp="1606156694051" />
-    <state x="403" y="208" width="550" height="371" key="jetbrains.nodejs.interpreters-dialog" timestamp="1606048246948">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="403" y="208" width="550" height="371" key="jetbrains.nodejs.interpreters-dialog/0.27.1366.741@0.27.1366.741" timestamp="1606048246948" />
-    <state x="347" y="177" width="672" height="677" key="run.anything.popup" timestamp="1606157608285">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="347" y="177" width="672" height="677" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1606157608285" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1606070721962">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1606070721962" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

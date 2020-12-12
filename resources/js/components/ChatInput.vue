@@ -18,7 +18,7 @@
             sendMessage: function(){
                 this.$emit('sent', {
                     message: this.input,
-                    author: 'Me'
+                    author: 'me',
                 })
                 this.input = ''
             }

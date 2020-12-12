@@ -33,15 +33,37 @@ const app = new Vue({
     el: '#app',
     data: {
         messages: [],
+
     },
+    created(){
+        this.getMessage();
+        console.log(Echo.join('chatroom'))
+        Echo.join('chatroom')
+            .listen('MessagePostedEvent', function(e){
+                console.log(e.user, e.message)
+                // \Log::info('here')
+            });
+    },
+    // updated(){
+    //     this.getMessage()
     methods: {
+        getMessage(){
+            axios.get('/messages').then( res => {
+            this.messages = res.data
+        })
+        .catch( err => console.log(err.message))
+        },
         addMessage(data)
         {
-            this.messages.push({
-                message: data.message,
-                author: data.author,
+            axios.post('/messages', {
+                    message: data.message,
+            }).then( res => {
+
+                    this.messages.push({
+                    message: data.message,
+                })
             })
-            console.log('Message added', data.message);
+            .catch( err => console.log(err.message))
         }
     }
 });

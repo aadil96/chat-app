@@ -1,13 +1,12 @@
 <template>
     <div>
-		<p>{{message }} </p>
-		<p>{{ author }} </p>
+		<p>{{ message.body }} </p>
         <hr>
     </div>
 </template>
 
 <script>
     export default {
-        props: ['message', 'author'],
+        props: ['message'],
     }
 </script>
